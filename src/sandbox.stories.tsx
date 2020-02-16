@@ -1,6 +1,5 @@
 import React from 'react';
-import DynamicForm from '@eux86/dynamic-forms';
-import { IDynamicFormSchema, ValidationType } from '@eux86/dynamic-forms';
+import DynamicForm, { IDynamicFormSchema, ValidationType } from '@eux86/dynamic-forms';
 
 export default {
   title: 'DynamicForm',
